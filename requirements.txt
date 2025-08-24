@@ -1,0 +1,9 @@
+# Core runtime
+PyQt5>=5.15.0
+Pillow>=10.0.0
+# Choose one of the TensorFlow packages suitable for your platform:
+tensorflow>=2.12
+# For Apple Silicon you may prefer:
+# tensorflow-macos
+# Optional GPU acceleration on Apple Silicon:
+# tensorflow-metal
