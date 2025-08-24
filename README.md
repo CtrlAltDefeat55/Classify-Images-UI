@@ -18,7 +18,6 @@ to predict the best class, then **moves the file** into a same-folder subdirecto
 - [Notes & Limitations](#notes--limitations)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -32,11 +31,9 @@ to predict the best class, then **moves the file** into a same-folder subdirecto
 
 ## Screenshot
 
-> Add a screenshot at `assets/screenshot.png` and reference it here:
+<img width="394" height="323" alt="classify_Images_UI" src="https://github.com/user-attachments/assets/f6dc5971-35ca-494b-af95-62e7ad2d4693" />
 
-```
-![App screenshot](assets/screenshot.png)
-```
+
 
 ## Installation
 
